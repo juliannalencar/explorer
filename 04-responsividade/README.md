@@ -1,13 +1,17 @@
 ![preview](./.github/explorer.png) 
 
-  <h1 align="center"> Explorer Stage 02 - Treine.me 📝</h1>
+  <h1 align="center"> Explorer Stage 03 - Responsiveness 📝</h1>
 
 ## ✏️ About
 
-> Project developed in Stage 2 of the Explorer course by [Rocketseat](https://www.rocketseat.com.br/) 🚀
+> Project developed in Stage 3 of the Explorer course by [Rocketseat](https://www.rocketseat.com.br/) 🚀
 
 
-![Screenshot](./.github/preview.jpg)
+![Screenshot](./.github/previewDesktop.jpg)
+
+</br>
+
+![Screenshot](./.github/previewMobile.jpg)
 
 ## ⚙ Technologies
 
@@ -22,13 +26,13 @@
 
 To access the project, click the link below:
 
-[🔗 Click here to access](https://github.com/juliannalencar/explorer-rocket/tree/main/02-web_treine-me)
+[🔗 Click here to access](https://github.com/juliannalencar/explorer-rocket/tree/main/04-responsividade)
 
 ## 🎨 Layout
 
 To access the project layout on Figma, click the link below:
 
-🔗 [View on Figma](https://www.figma.com/file/MUupnGtOlCKm4Azzjx7nwb/Explorer-Projeto-02-Copy?fuid=1301745258112043399)
+🔗 [View on Figma](https://www.figma.com/file/VJZq7sOwJu4svTbDmgHL5z/Explorer-Stage-03-Projeto-02-Copy?fuid=1301745258112043399)
 
 ## 📫 Contact
 

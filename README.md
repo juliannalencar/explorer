@@ -4,11 +4,11 @@
 
 # Formação em Programação FullStack 🚀
 
-Bem-vindo ao meu repositório de estudos da Formação em Programação FullStack da Rocketseat! Aqui você encontrará informações sobre os módulos, as tecnologias estudadas e meu progresso ao longo do curso.
+Bem-vindo ao meu repositório de estudos da Formação em Programação FullStack na Rocketseat! Aqui você encontrará informações sobre as tecnologias estudadas e meu progresso ao longo do curso.
 
 ## Menu de Navegação 📜
 
-[Visão Geral](#visao-geral) | [Tecnologias Envolvidas](#tecnologias-envolvidas) | [Progresso Atual](#progresso-atual) | [Autora](#autora) | [Licença](#licenca)
+[Visão Geral](#visao-geral) | [Tecnologias Envolvidas](#tecnologias-envolvidas) | [Progresso Atual](#progresso-atual) | [Autora](#autora) | 
 
 
 ## 💻 Tecnologias Envolvidas
@@ -27,7 +27,6 @@ Bem-vindo ao meu repositório de estudos da Formação em Programação FullStac
 - [x] Introdução ao HTML e CSS
 - [x] Avançando no HTML e CSS
 - [x] Introdução ao JavaScript
-- [ ] Intensivão
 - [ ] Avançando no JavaScript
 - [ ] JavaScript antes do Framework
 - [ ] Versionamento de Código
@@ -41,6 +40,6 @@ Bem-vindo ao meu repositório de estudos da Formação em Programação FullStac
 
 ## 👨‍💻 Autora
 
-[Julianna Alencar](https://github.com/juliannalencar)  
+[Julianna Alencar 💙](https://github.com/juliannalencar)  
 [LinkedIn](https://www.linkedin.com/in/juliannalencar/)  
 [Instagram](https://www.instagram.com/juliannalencar/)
