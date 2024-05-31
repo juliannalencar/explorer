@@ -29,7 +29,7 @@ Bem-vindo ao meu repositório de estudos da Formação em Programação FullStac
 - [x] Introdução ao JavaScript
 - [ ] Avançando no JavaScript
 - [ ] JavaScript antes do Framework
-- [ ] Versionamento de Código
+- [x] Versionamento de Código
 - [ ] Backend
 - [ ] Frontend
 - [ ] Integrando backend e frontend
